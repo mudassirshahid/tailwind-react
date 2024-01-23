@@ -21,7 +21,7 @@ const Navbar = () => {
         <Link to="/"><span className="text-3xl text-indigo-600 mr-1 pt-2 relative top-2">
             <ion-icon name="logo-ionic"></ion-icon>
           </span>
-          Designer</Link>
+          Developer</Link>
         </div>
         <div onClick={()=>setOpen(!open)} className="text-3xl absolute right-8 top-6 cursor-pointer md:hidden">
         <ion-icon name={open ? "close" : "menu"}></ion-icon>
