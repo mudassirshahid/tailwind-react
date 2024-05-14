@@ -48,7 +48,7 @@ export function LandinngPageOne() {
                 />
               </svg>
             </span>
-            <span className="font-bold">DevUI</span>
+            <span className="font-bold">UI</span>
           </div>
           <div className="hidden lg:block">
             <ul className="inline-flex space-x-8">
@@ -69,7 +69,7 @@ export function LandinngPageOne() {
               type="button"
               className="rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
             >
-              Button text
+              Get Started
             </button>
           </div>
           <div className="lg:hidden">
@@ -95,7 +95,7 @@ export function LandinngPageOne() {
                           />
                         </svg>
                       </span>
-                      <span className="font-bold">DevUI</span>
+                      <span className="font-bold">UI</span>
                     </div>
                     <div className="-mr-2">
                       <button
@@ -536,7 +536,7 @@ export function LandinngPageOne() {
             </span>
             <div className="mt-4 grow md:ml-12 md:mt-0">
               <p className="text-base font-semibold text-gray-700">
-                © 2023 DevUI Component Library
+                © 2024 UI
               </p>
             </div>
           </div>
